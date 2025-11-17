@@ -1,0 +1,9 @@
+/vendor/
+/.idea/
+/node_modules/
+*.log
+/cache/
+*.zip
+*.tar
+*.gz
+.DS_Store
