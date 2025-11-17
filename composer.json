@@ -1,0 +1,13 @@
+{
+  "name": "andeh/auth-mini-framework",
+  "description": "A lightweight Auth mini framework for PHP projects",
+  "autoload": {
+    "psr-4": {
+      "andeh\\Framework\\": "src/"
+    }
+  },
+  "type": "library",
+  "require": {
+    "php": ">=8.2"
+  }
+}
